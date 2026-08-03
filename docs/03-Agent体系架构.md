@@ -190,7 +190,7 @@
 | Agent框架 | LangGraph | AutoGen |
 | 工具协议 | MCP (Model Context Protocol) | - |
 | 消息队列 | Redis Streams | Kafka |
-| 状态存储 | PostgreSQL | - |
+| 状态存储 | MySQL | - |
 
 ### 7.2 工作流状态机
 
